@@ -12,4 +12,4 @@ Ecological differentiation among diverging species is an important component of 
 
 ##### Raw data access:
 
-Raw WGS reads generated for this study can be found on SRA under BioProject accession number [PRJNA834612]([linkurl](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA834612)). 
+Raw WGS reads generated for this study can be found on SRA under BioProject accession number PRJNA834612: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA834612. 
