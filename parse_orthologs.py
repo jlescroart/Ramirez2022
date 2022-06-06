@@ -10,7 +10,7 @@
 #### Following changes were made:
 #### 1/ number of input gene sets is determined from list file rather than hardcoded in script;
 #### 2/ If genomic coordinates are available in header from preceding gffread analysis,
-#### ... these are now propagated. Switch comment flag on lines 49-50 to disable.
+#### ... these are now propagated. Switch comment flag on lines 52-53 to disable.
 
 from Bio import SeqIO
 import sys
