@@ -4,7 +4,7 @@ Archived code for analyses in Ramirez et al. (2022).
 
 ##### Full citation:
 
-Ramirez, J. L., Lescroart, J., Figueiró, H. V., Torres-Florez, J. P., Villela, P. M. S., Coutinho, L. L., Freitas, P. D., Johnson, W. E., Antunes, A., Galetti Jr., P. M., Eizirik, E. (2022). Genomic signatures of divergent ecological strategies in a recent radiation of Neotropical wild cats. *Molecular Biology and Evolution*, X(Y). doi: [10.1093/molbev/msac117](http://dx.doi.org/10.1093/molbev/msac117).
+Ramirez, J. L., Lescroart, J., Figueiró, H. V., Torres-Florez, J. P., Villela, P. M. S., Coutinho, L. L., Freitas, P. D., Johnson, W. E., Antunes, A., Galetti Jr., P. M., Eizirik, E. (2022). Genomic signatures of divergent ecological strategies in a recent radiation of Neotropical wild cats. *Molecular Biology and Evolution*, 39(6). doi: [10.1093/molbev/msac117](http://dx.doi.org/10.1093/molbev/msac117).
 
 ##### Abstract:
 
